@@ -14,7 +14,7 @@ https://kktix.com/dashboard/organizations/chatbots
 - 上傳大頭照
 
 大致上的樣子為這樣
-![](https://i.imgur.com/xMbNS53.png)
+![](https://i.imgur.com/xMbNS53l.png)
 
 
 ## 至少要擁有兩種票卷
@@ -30,7 +30,7 @@ kktix 開完之後至 [Chatbot Developer Taiwan](https://www.facebook.com/groups
 # 共筆
 
 先到 [HackMD](https://hackmd.io/team/chatbot-tw?nav=overview) 開團隊筆記，選擇範本
-![](https://i.imgur.com/xSuKkSr.png)
+![](https://i.imgur.com/xSuKkSrl.png)
 
 ---
 
