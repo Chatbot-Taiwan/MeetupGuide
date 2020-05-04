@@ -26,10 +26,10 @@ https://kktix.com/dashboard/organizations/chatbots
 kktix 開完之後至 [Chatbot Developer Taiwan](https://www.facebook.com/groups/chatbot.tw/events/) 開**活動**宣傳會發通知給所有社群使與用者
 ![](https://i.imgur.com/ru8J1yC.png)
 
-
+> 開 社團活動 會對所有社群成員下通知，若像 COSCUP 之類推廣活動也可開活動通知
 # 共筆
 
-先到 [HackMD ](https://hackmd.io/team/chatbot-tw?nav=overview) 開團隊筆記，選擇範本
+先到 [HackMD](https://hackmd.io/team/chatbot-tw?nav=overview) 開團隊筆記，選擇範本
 ![](https://i.imgur.com/xSuKkSr.png)
 
 ---
@@ -109,3 +109,4 @@ XR 的畫質目前是不錯，只缺收音部分需要有獨立***麥克風***�
         - hangout
     - Zoom
     - LINE 群組
+
