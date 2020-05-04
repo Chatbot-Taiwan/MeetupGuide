@@ -30,11 +30,13 @@ kktix 開完之後至 [Chatbot Developer Taiwan](https://www.facebook.com/groups
 # 共筆
 
 先到 [HackMD](https://hackmd.io/team/chatbot-tw?nav=overview) 開團隊筆記，選擇範本
+
 ![](https://i.imgur.com/xSuKkSrl.png)
 
 ---
 
 裡面已經有我建立的範本部分，如果覺得有比較好的部分可以直接改
+
 ![](https://i.imgur.com/oSYxgQQ.png)
 
 共筆也需要建立以及注意`網址`的部分，`不可以`用亂碼傳出去(hackmd 預設)
@@ -66,6 +68,7 @@ kktix 開完之後至 [Chatbot Developer Taiwan](https://www.facebook.com/groups
 
 
 範例為下圖，左上角有一個連結的部分，點下去後網址會把 id 放上去，將網址貼到社群上分享給大家點選(會直接到這部分)
+
 ![](https://i.imgur.com/3aCjthF.png)
 
 # 最後
