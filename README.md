@@ -1,5 +1,11 @@
 ![](https://i.imgur.com/bnjhvyRl.png)
 
+# 流程
+
+找場地/講者 ➡️ KKTIX 開票頁面 ➡️ 社團開活動 ➡️ 宣傳 ➡️ 請講者提供資訊 ➡️ 協調活動人員 ➡️ 宣傳 ➡️ 活動開始 ➡️ 寫共筆 ➡️ 活動結束 ➡️ 提供講者直播影片區間/剪影片 ➡️ 更新上 github ➡️ 準備下個月活動
+
+以下則為每個步驟的細項。
+
 # KKTIX 建立報名活動
 
 https://kktix.com/dashboard/organizations/chatbots
