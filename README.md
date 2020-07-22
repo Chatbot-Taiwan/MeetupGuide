@@ -126,7 +126,7 @@ Keynote 通常會邀請`兩位講者`，可用`聊天室`或`群組`集結大家
 - 外接麥克風 (強烈建議)
 
 iOS 到 APP store 下載 Streamlabs
-參考我之前的文章 - [第一次直播就上手 (1)】使用 Streamlabs 在 Youtube 上直播](https://nijialin.com/2020/03/21/%E3%80%90%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%9B%B4%E6%92%AD%E5%B0%B1%E4%B8%8A%E6%89%8B%E3%80%91%E4%BD%BF%E7%94%A8-Streamlabs-%E5%9C%A8-Youtube-%E4%B8%8A%E7%9B%B4%E6%92%AD/)
+參考我之前的文章 - [第一次直播就上手 (1)】使用 Streamlabs 在 Youtube 上直播](https://nijialin.com/2020/03/21/Streamlabs-Youtube-streaming/)
 
 登入 chatbot taiwan 的 youtube 帳號
 
